@@ -9,7 +9,6 @@
         <link rel="stylesheet" type="text/css" href="style.css" />
     </head>
     <body>
-        <h1>xml ja xslt andmete kuvamine</h1>
         <div>
             <asp:Xml runat="server" DocumentSource="~/pohiandmed.xml" TransformSource="~/pohiandmeteLisa.xslt"/>
         </div>
