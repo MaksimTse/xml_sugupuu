@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<sugupuu>
+	<inimene synniaasta="1959">
+		<nimi>Vladimir</nimi>
+		<synniaasta>1959</synniaasta>
+		<synnikoht>Peterburg</synnikoht>
+	</inimene>
+	<inimene synniaasta="1961">
+		<nimi>Aleksandra</nimi>
+		<synniaasta>1961</synniaasta>
+		<synnikoht>Tallinn</synnikoht>
+		<lapsed>
+			<inimene synniaasta="1980">
+				<nimi>Alexey</nimi>
+				<synniaasta>1980</synniaasta>
+				<synnikoht>Lvov</synnikoht>
+			</inimene>
+			<inimene synniaasta="1983">
+				<nimi>Elena</nimi>
+				<synniaasta>1983</synniaasta>
+				<synnikoht>Lvov</synnikoht>
+				<lapsed>
+					<inimene synniaasta="2006">
+						<nimi>Maksim</nimi>
+						<synniaasta>2006</synniaasta>
+						<synnikoht>Tallinn</synnikoht>
+						<lapsed>
+							<inimene>----</inimene>
+							<synniaasta>-----</synniaasta>
+							<synnikoht>----</synnikoht>
+						</lapsed>
+					</inimene>
+				</lapsed>
+			</inimene>
+		</lapsed>
+	</inimene>
+	<inimene synniaasta="1957">
+		<nimi>Andrey</nimi>
+		<synniaasta>1957</synniaasta>
+		<synnikoht>Minsk</synnikoht>
+	</inimene>
+	<inimene synniaasta="1959">
+		<nimi>Maria</nimi>
+		<synniaasta>1959</synniaasta>
+		<synnikoht>Minsk</synnikoht>
+		<lapsed>
+			<inimene synniaasta="1981">
+				<nimi>Konstantin</nimi>
+				<synniaasta>1981</synniaasta>
+				<synnikoht>Minsk</synnikoht>
+			</inimene>
+		</lapsed>
+	</inimene>
+</sugupuu>
