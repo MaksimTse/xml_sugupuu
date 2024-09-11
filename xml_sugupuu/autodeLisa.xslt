@@ -39,7 +39,18 @@
 						<xsl:value-of select="mark"/>
 					</td>
 					<td>
-						<xsl:value-of select="registrinumber"/>
+						<xsl:variable name="regNum" select="registrinumber"/>
+						<xsl:variable name="firstPart" select="substring-before($regNum, ' ')"/>
+						<xsl:variable name="secondPart" select="substring-after($regNum, ' ')"/>
+
+						<!-- Проверка, начинается ли вторая часть на 'B' -->
+						<xsl:choose>
+							<xsl:when test="starts-with($secondPart, 'B')">
+								<xsl:value-of select="$firstPart"/>
+								<span style="color: red;"> B</span>
+								<xsl:value-of select="substring($secondPart, 2)"/>
+							</xsl:when>
+						</xsl:choose>
 					</td>
 					<td>
 						<xsl:value-of select="omanik"/>
