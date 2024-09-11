@@ -26,7 +26,7 @@
 				</tr>
 			</xsl:for-each>
 		</table>
-		<h3>2) Autod, mille registrinumber algab tähega "B"</h3>
+		<h3>2) Autod, mille registrinumber algab tähega "B" ja värvige see punaseks</h3>
 		<table border="1">
 			<tr>
 				<th>Mark</th>
@@ -39,11 +39,10 @@
 						<xsl:value-of select="mark"/>
 					</td>
 					<td>
-						<xsl:variable name="regNum" select="registrinumber"/>
-						<xsl:variable name="firstPart" select="substring-before($regNum, ' ')"/>
+						<xsl:variable name="regNum" select="registrinumber"/> Переменная с именем regNum которая выберает registrinumber
+						<xsl:variable name="firstPart" select="substring-before($regNum, ' ')"/> Переменная с именем regNum которая выберает первую часть до пробела переменной regNum
 						<xsl:variable name="secondPart" select="substring-after($regNum, ' ')"/>
 
-						<!-- Проверка, начинается ли вторая часть на 'B' -->
 						<xsl:choose>
 							<xsl:when test="starts-with($secondPart, 'B')">
 								<xsl:value-of select="$firstPart"/>

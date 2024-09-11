@@ -103,7 +103,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
-    <Content Include="autodeLisa.xslt" />
+    <Content Include="autodeLisa.xslt">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
