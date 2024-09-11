@@ -10,7 +10,7 @@
     </head>
     <body>
         <div>
-            <asp:Xml runat="server" DocumentSource="~/pohiandmed.xml" TransformSource="~/pohiandmeteLisa.xslt"/>
+            <asp:Xml runat="server" DocumentSource="~/autod.xml" TransformSource="~/autodeLisa.xslt"/>
         </div>
     </body>
 </html>

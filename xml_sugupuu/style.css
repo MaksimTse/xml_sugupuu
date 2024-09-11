@@ -1,35 +1,37 @@
 ﻿body {
-    font-family: sans-serif;
+    font-family: Arial, sans-serif;
     background-color: #1e1e1e;
     color: #f5f5f5;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     height: 100vh;
     margin: 0;
+    padding: 20px;
 }
 
 table {
-    width: 80%;
+    width: 100%; 
     border-collapse: collapse;
     margin: 20px 0;
-    font-size: 18px;
-    min-width: 400px;
-    background-color: #333;
-    border-radius: 8px;
+    font-size: 16px;
+    min-width: 500px;
+    background-color: #2c2c2c;
+    border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); 
 }
 
-th,
-td {
-    padding: 12px 15px;
+th, td {
+    padding: 14px 20px;
     text-align: left;
+    border: 1px solid #444;
 }
 
 th {
     background-color: #444;
     color: #ffffff;
+    font-weight: bold;
 }
 
 tr {
@@ -45,5 +47,31 @@ tr {
     }
 
 td {
-    color: #dcdcdc;
+    color: #e0e0e0;
+    vertical-align: middle;
 }
+
+h2, h3 {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #2a2a2a;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    color: #e0e0e0;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+    li:hover {
+        background-color: #444;
+    }
