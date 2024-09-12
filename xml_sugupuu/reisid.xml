@@ -1,5 +1,5 @@
-﻿<Reisid>
-	<Reisi reisi_id="1">
+﻿<Reisid xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="reisid.xsd">
+	<Reisi reisi_id="4">
 		<Lend>
 			<Hind>422</Hind>
 			<Valjumine>
