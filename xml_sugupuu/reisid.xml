@@ -1,0 +1,452 @@
+﻿<Reisid>
+	<Reisi reisi_id="1">
+		<Lend>
+			<Hind>422</Hind>
+			<Valjumine>
+				<Linn>San Jorge</Linn>
+				<Aeg>10:44</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Curuzú Cuatiá</Linn>
+				<Aeg>13:25</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Fernando Luis Ribas Dominicci Airport</LennujaamaNimi>
+			<TransportHind>115</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="2">
+		<Lend>
+			<Hind>565</Hind>
+			<Valjumine>
+				<Linn>Rat Burana</Linn>
+				<Aeg>13:05</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Zamoskvorech’ye</Linn>
+				<Aeg>3:25</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Hukuntsi Airport</LennujaamaNimi>
+			<TransportHind>63</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="3">
+		<Lend>
+			<Hind>2149</Hind>
+			<Valjumine>
+				<Linn>Dagu</Linn>
+				<Aeg>4:01</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>San Miguel de Cauri</Linn>
+				<Aeg>19:58</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Gualeguaychu Airport</LennujaamaNimi>
+			<TransportHind>81</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="4">
+		<Lend>
+			<Hind>2884</Hind>
+			<Valjumine>
+				<Linn>Singosari</Linn>
+				<Aeg>15:36</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Hongor</Linn>
+				<Aeg>5:11</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Cochstedt Airport</LennujaamaNimi>
+			<TransportHind>169</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="5">
+		<Lend>
+			<Hind>1062</Hind>
+			<Valjumine>
+				<Linn>Ibeto</Linn>
+				<Aeg>8:40</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Oslo</Linn>
+				<Aeg>15:35</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Ontario Municipal Airport</LennujaamaNimi>
+			<TransportHind>98</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="6">
+		<Lend>
+			<Hind>3255</Hind>
+			<Valjumine>
+				<Linn>Monastyryshche</Linn>
+				<Aeg>21:09</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Kedungwungu</Linn>
+				<Aeg>11:59</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Nefteyugansk Airport</LennujaamaNimi>
+			<TransportHind>98</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="7">
+		<Lend>
+			<Hind>1536</Hind>
+			<Valjumine>
+				<Linn>Radashkovichy</Linn>
+				<Aeg>21:50</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Uthai</Linn>
+				<Aeg>13:53</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Abilene Regional Airport</LennujaamaNimi>
+			<TransportHind>189</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="8">
+		<Lend>
+			<Hind>1644</Hind>
+			<Valjumine>
+				<Linn>Liyang</Linn>
+				<Aeg>6:53</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Manujan</Linn>
+				<Aeg>19:45</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Pemba Airport</LennujaamaNimi>
+			<TransportHind>188</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="9">
+		<Lend>
+			<Hind>1186</Hind>
+			<Valjumine>
+				<Linn>Ngreco</Linn>
+				<Aeg>9:09</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Dongjiao</Linn>
+				<Aeg>3:05</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Elkhart Municipal Airport</LennujaamaNimi>
+			<TransportHind>193</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="10">
+		<Lend>
+			<Hind>500</Hind>
+			<Valjumine>
+				<Linn>The Tren Thit Khê</Linn>
+				<Aeg>9:32</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Briceni</Linn>
+				<Aeg>21:23</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Ukunda Airstrip</LennujaamaNimi>
+			<TransportHind>131</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="11">
+		<Lend>
+			<Hind>2567</Hind>
+			<Valjumine>
+				<Linn>Jeblog Satu</Linn>
+				<Aeg>10:11</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Katy</Linn>
+				<Aeg>12:32</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Hobart Regional Airport</LennujaamaNimi>
+			<TransportHind>81</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="12">
+		<Lend>
+			<Hind>2589</Hind>
+			<Valjumine>
+				<Linn>Shijia</Linn>
+				<Aeg>6:00</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Andapa</Linn>
+				<Aeg>6:22</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Santa Rosa Airport</LennujaamaNimi>
+			<TransportHind>182</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="13">
+		<Lend>
+			<Hind>2327</Hind>
+			<Valjumine>
+				<Linn>Pasirnangka</Linn>
+				<Aeg>10:53</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Gœsdorf</Linn>
+				<Aeg>3:16</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Zachar Bay Seaplane Base</LennujaamaNimi>
+			<TransportHind>75</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="14">
+		<Lend>
+			<Hind>1868</Hind>
+			<Valjumine>
+				<Linn>Jixiang</Linn>
+				<Aeg>7:17</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Tempurejo</Linn>
+				<Aeg>15:40</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Beverley Springs Airport</LennujaamaNimi>
+			<TransportHind>193</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="15">
+		<Lend>
+			<Hind>803</Hind>
+			<Valjumine>
+				<Linn>Longmen</Linn>
+				<Aeg>23:57</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Danderyd</Linn>
+				<Aeg>20:16</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Frederick Regional Airport</LennujaamaNimi>
+			<TransportHind>57</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="16">
+		<Lend>
+			<Hind>2999</Hind>
+			<Valjumine>
+				<Linn>Gasri</Linn>
+				<Aeg>15:03</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Willowmore</Linn>
+				<Aeg>13:52</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Paro Airport</LennujaamaNimi>
+			<TransportHind>113</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="17">
+		<Lend>
+			<Hind>854</Hind>
+			<Valjumine>
+				<Linn>Kurye</Linn>
+				<Aeg>16:43</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Åmål</Linn>
+				<Aeg>7:55</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Port Allen Airport</LennujaamaNimi>
+			<TransportHind>87</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="18">
+		<Lend>
+			<Hind>2414</Hind>
+			<Valjumine>
+				<Linn>Maharagama</Linn>
+				<Aeg>22:01</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Shiraoka</Linn>
+				<Aeg>8:07</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Gustavus Airport</LennujaamaNimi>
+			<TransportHind>65</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="19">
+		<Lend>
+			<Hind>1814</Hind>
+			<Valjumine>
+				<Linn>Banjar Dauhpura</Linn>
+				<Aeg>13:24</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Sukarame</Linn>
+				<Aeg>19:04</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>DuBois Regional Airport</LennujaamaNimi>
+			<TransportHind>93</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="20">
+		<Lend>
+			<Hind>2841</Hind>
+			<Valjumine>
+				<Linn>Detupia</Linn>
+				<Aeg>15:40</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Lazaro Cardenas</Linn>
+				<Aeg>18:19</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Hornepayne Municipal Airport</LennujaamaNimi>
+			<TransportHind>73</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="21">
+		<Lend>
+			<Hind>1077</Hind>
+			<Valjumine>
+				<Linn>Loureiro</Linn>
+				<Aeg>6:38</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>New York City</Linn>
+				<Aeg>19:58</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Propriá Airport</LennujaamaNimi>
+			<TransportHind>93</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="22">
+		<Lend>
+			<Hind>1991</Hind>
+			<Valjumine>
+				<Linn>Punkalaidun</Linn>
+				<Aeg>16:52</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Correntina</Linn>
+				<Aeg>4:59</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Spokane International Airport</LennujaamaNimi>
+			<TransportHind>112</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="23">
+		<Lend>
+			<Hind>2191</Hind>
+			<Valjumine>
+				<Linn>Montemor-o-Velho</Linn>
+				<Aeg>21:12</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Brest</Linn>
+				<Aeg>6:43</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>King Hussein Air College</LennujaamaNimi>
+			<TransportHind>113</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="24">
+		<Lend>
+			<Hind>464</Hind>
+			<Valjumine>
+				<Linn>Balice</Linn>
+				<Aeg>22:29</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Ishkhoy-Yurt</Linn>
+				<Aeg>17:47</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Scribner State Airport</LennujaamaNimi>
+			<TransportHind>189</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="25">
+		<Lend>
+			<Hind>3025</Hind>
+			<Valjumine>
+				<Linn>Gaoshi</Linn>
+				<Aeg>11:19</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Manggu</Linn>
+				<Aeg>2:19</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Clayton Municipal Airpark</LennujaamaNimi>
+			<TransportHind>109</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="26">
+		<Lend>
+			<Hind>1121</Hind>
+			<Valjumine>
+				<Linn>Sada</Linn>
+				<Aeg>9:49</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Handan</Linn>
+				<Aeg>23:33</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Innsbruck Airport</LennujaamaNimi>
+			<TransportHind>134</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="27">
+		<Lend>
+			<Hind>1407</Hind>
+			<Valjumine>
+				<Linn>Ñuñoa</Linn>
+				<Aeg>1:58</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Sliema</Linn>
+				<Aeg>21:27</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Fayetteville Municipal Airport</LennujaamaNimi>
+			<TransportHind>74</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="28">
+		<Lend>
+			<Hind>1375</Hind>
+			<Valjumine>
+				<Linn>Paris 09</Linn>
+				<Aeg>19:26</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Cherbourg-Octeville</Linn>
+				<Aeg>16:32</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Cobar Airport</LennujaamaNimi>
+			<TransportHind>94</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="29">
+		<Lend>
+			<Hind>2372</Hind>
+			<Valjumine>
+				<Linn>Ðình Lep</Linn>
+				<Aeg>0:43</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Borovan</Linn>
+				<Aeg>17:32</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Richards Bay Airport</LennujaamaNimi>
+			<TransportHind>110</TransportHind>
+		</Lend>
+	</Reisi>
+	<Reisi reisi_id="30">
+		<Lend>
+			<Hind>1036</Hind>
+			<Valjumine>
+				<Linn>Xishui</Linn>
+				<Aeg>7:54</Aeg>
+			</Valjumine>
+			<Saabumine>
+				<Linn>Gaocheng</Linn>
+				<Aeg>19:38</Aeg>
+			</Saabumine>
+			<LennujaamaNimi>Bamburi Airport</LennujaamaNimi>
+			<TransportHind>192</TransportHind>
+		</Lend>
+	</Reisi>
+</Reisid>

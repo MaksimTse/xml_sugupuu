@@ -6,11 +6,11 @@
         <title>
             xml ja xslt andmete kuvamine
         </title>
-        <link rel="stylesheet" type="text/css" href="style.css" />
+        <%--<link rel="stylesheet" type="text/css" href="style.css" />--%>
     </head>
     <body>
         <div>
-            <asp:Xml runat="server" DocumentSource="~/autod.xml" TransformSource="~/autodeLisa.xslt"/>
+            <asp:Xml runat="server" DocumentSource="~/reisid.xml" TransformSource="~/reisideLisa.xslt"/>
         </div>
     </body>
 </html>

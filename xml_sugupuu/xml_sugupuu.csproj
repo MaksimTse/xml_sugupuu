@@ -129,6 +129,8 @@
     <Content Include="Global.asax" />
     <Content Include="pohiandmed.xml" />
     <Content Include="pohiandmeteLisa.xslt" />
+    <Content Include="reisid.xml" />
+    <Content Include="reisideLisa.xslt" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />

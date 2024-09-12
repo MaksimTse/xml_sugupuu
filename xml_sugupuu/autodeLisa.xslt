@@ -39,15 +39,22 @@
 						<xsl:value-of select="mark"/>
 					</td>
 					<td>
-						<xsl:variable name="regNum" select="registrinumber"/> Переменная с именем regNum которая выберает registrinumber
-						<xsl:variable name="firstPart" select="substring-before($regNum, ' ')"/> Переменная с именем regNum которая выберает первую часть до пробела переменной regNum
+						<xsl:variable name="regNum" select="registrinumber"/>
+						<!-- Muutujaga nimega regNum, mis valib registrinumbri -->
+						<xsl:variable name="firstPart" select="substring-before($regNum, ' ')"/>
+						<!-- Muutujaga nimega firstPart, mis valib esimese osa enne tühikut muutujast regNum -->
 						<xsl:variable name="secondPart" select="substring-after($regNum, ' ')"/>
+						<!-- Muutujaga nimega secondPart, mis valib teise osa pärast tühikut muutujast regNum -->
 
 						<xsl:choose>
 							<xsl:when test="starts-with($secondPart, 'B')">
+								<!-- Kasutades teist osa numbrist, otsime alguses tähte B -->
 								<xsl:value-of select="$firstPart"/>
+								<!-- Väljund muutuja abil esimene osa numbrist -->
 								<span style="color: red;"> B</span>
+								<!-- Kirjutame punase tähe B -->
 								<xsl:value-of select="substring($secondPart, 2)"/>
+								<!-- Võtame teise osa numbrist muutuja kaudu ja alustame teisest tähest, nii et väljundiks on numbrid + värviline täht ja 2 viimast tähte -->
 							</xsl:when>
 						</xsl:choose>
 					</td>
@@ -116,7 +123,7 @@
 		<br/>
 		<ul>
 			<xsl:for-each select="autod/auto">
-				<xsl:variable name="value" select="substring(registrinumber, 3, 1) + 2"/>
+				<xsl:variable name="value" select="substring(registrinumber, 3, 1) + 2"/> 
 				<li>
 					<strong>Registri Number: </strong> <xsl:value-of select="registrinumber"/> -
 					<xsl:choose>
@@ -186,19 +193,23 @@
 					<td>
 						<p>
 							<xsl:variable name="value" select="substring(registrinumber, 3, 1) + 2"/>
+							<!-- Loome muutuja nimega 'value', mis salvestab meie numbrid edasiseks kasutamiseks värvimiseks -->
 							<xsl:choose>
 								<xsl:when test="$value &gt; 9">
+									<!-- Kontrollime muutujat, kas see on suurem kui 9, ja värvime punaseks, väljendades sama muutujat -->
 									<span style="color: red;">
 										<xsl:value-of select="$value"/>
 									</span>
 								</xsl:when>
 								<xsl:otherwise>
+									<!-- Muul juhul värvime roheliseks, väljendades sama muutujat -->
 									<span style="color: green;">
 										<xsl:value-of select="$value"/>
 									</span>
 								</xsl:otherwise>
 							</xsl:choose>
 						</p>
+
 					</td>
 				</tr>
 			</xsl:for-each>
